@@ -3,5 +3,5 @@ function add() {
 }
 
 function subtract() {
-  (60-40)
+  (60 - 40)
 }
