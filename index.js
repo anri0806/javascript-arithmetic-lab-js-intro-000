@@ -13,3 +13,7 @@ function multiply() {
 function divide() {
   (6 / 2)
 }
+
+function add(a, b) {
+  return a + b
+}
