@@ -35,5 +35,5 @@ function increment(n) {
 }
 
 function decrement(n) {
-  (n - 1)
+  return (n - 1)
 }
