@@ -5,3 +5,7 @@ function add() {
 function subtract() {
   (60 - 40)
 }
+
+function multiply() {
+  (2 * 3)
+}
