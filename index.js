@@ -31,5 +31,5 @@ function divide(a, b) {
 }
 
 function increment(n) {
-  n + 1
+  (n + 1)
 }
