@@ -13,4 +13,3 @@ function multiply() {
 function divide() {
   (6 / 2)
 }
-
